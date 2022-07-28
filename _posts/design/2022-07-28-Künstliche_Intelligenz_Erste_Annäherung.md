@@ -1,24 +1,24 @@
 ---
-layout: page
+layout: page-fullwidth
 #
 # Content
 #
 subheadline: "Künstliche Intelligenz"
-title: "Was bedeutet 'Künstliche Intelligenz' für mich. – Eine erste Annäherung"
+title: "Künstliche Intelligenz'. – Eine erste Annäherung"
 teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich bedeutet. Meine ersten Gedanken und Ideen dazu waren wirr und ungeordnet. Um meiner Leserschaft eine möglichst klaren Einblick bezüglichen meinen Schlüssen, Gedanken und Ideen zu verschaffen, bemühe ich mich, diese möglichst klar und geordnet zu präsentieren."
 #
 # Styling
 #
 header:
     image: intelligence.jpg
-    background-color:  "#304558"
+    background-color:  "#262930"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 image:
-    thumb:  intelligence-thumb.jpg
-    homepage: intelligence.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://www.pexels.com
+    thumb:  homepage_typography-thumb.jpg
+    homepage: homepage_typography.jpg
+    caption: Image by Antonio
+    caption_url: "http://www.aisleone.net/"
 ---
 ## Subjektivität des Begriffes 'Intelligenz'
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
