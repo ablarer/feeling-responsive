@@ -15,7 +15,7 @@ header:
     caption_url: https://unsplash.com/
 image:
     thumb:  intelligence-thumb.jpg
-    homepage: intelligence.jpg.jpg
+    homepage: intelligence.jpg
     caption: Image by Antonio
     caption_url: "http://www.aisleone.net/"
 ---
