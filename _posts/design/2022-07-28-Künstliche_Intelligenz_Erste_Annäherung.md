@@ -5,12 +5,20 @@ layout: page
 #
 subheadline: "Künstliche Intelligenz"
 title: "Was bedeutet 'Künstliche Intelligenz' für mich. – Eine erste Annäherung"
-teaser: "Allgemein. Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich bedeutet. Meine ersten Gedanken und Ideen dazu waren wirr und ungeordnet. Um meiner Leserschaft eine möglichst klaren Einblick bezüglichen meinen Schlüssen, Gedanken und Ideen zu verschaffen, bemühe ich mich, diese möglichst klar und geordnet zu präsentieren."
+teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich bedeutet. Meine ersten Gedanken und Ideen dazu waren wirr und ungeordnet. Um meiner Leserschaft eine möglichst klaren Einblick bezüglichen meinen Schlüssen, Gedanken und Ideen zu verschaffen, bemühe ich mich, diese möglichst klar und geordnet zu präsentieren."
 #
 # Styling
 #
-header: no
-image: no
+header:
+    image: homepage_typography.jpg
+    background-color: "#262930"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+image:
+    thumb:  homepage_typography-thumb.jpg
+    homepage: homepage_typography.jpg
+    caption: Image by Antonio
+    caption_url: "http://www.aisleone.net/"
 mediaplayer: no
 ---
 [mediaelement.js][1] Bedeutung des Begriffes 'Künstliche Intelligenz'
