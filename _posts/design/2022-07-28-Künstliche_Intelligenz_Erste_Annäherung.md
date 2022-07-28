@@ -10,10 +10,10 @@ teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich b
 # Styling
 #
 header:
-    image: intelligence.jpg
-    background-color: "#000000"
+    image: header_unsplash_2-970x.jpg
+    background-color:  "#304558"
     caption: This is a caption for the header image with link
-    caption_url: https://www.pexels.com
+    caption_url: https://unsplash.com/
 image:
     thumb:  intelligence.jpg
     homepage: intelligence.jpg
