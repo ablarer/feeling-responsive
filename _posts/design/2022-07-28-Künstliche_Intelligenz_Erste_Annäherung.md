@@ -12,7 +12,7 @@ header:
     image: intelligence.jpg
     background-color: "#262930"
 image:
-    thumb:  intelligence-thumb.jpg
+    thumb:  typewriter-thumb.jpg
     homepage: intelligence.jpg
 show_meta:
     true
