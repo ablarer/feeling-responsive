@@ -43,7 +43,7 @@
 #   class: icon-xing
 #   title: Xing Profil
 
- - name: linkedin
-   url: www.linkedin.com/in/albert-blarer
-   class: icon-linkedin
-   title: linkedin Profil
+- name: linkedin
+  url: www.linkedin.com/in/albert-blarer
+  class: icon-linkedin
+  title: linkedin Profil
