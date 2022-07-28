@@ -21,11 +21,13 @@ image:
     caption_url: "http://www.aisleone.net/"
 mediaplayer: no
 ---
-## Subjektivität des Begriffes 'Intelligenz' &lt;h2&gt;
+## Subjektivität des Begriffes 'Intelligenz';
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
   Die 'Intelligenz' wird zum Beispiel zwischen Menschen und Tieren verglichen. Dabei geht man von unbewusst oder bewusst definierten Fähigkeiten des Menschen aus, die man als 'Intelligent' bezeichnet. Die Tiere weisen diese dann auf oder eben nicht und sind dadurch meist weniger 'Intelligent' als der Mensch.
   Ein weiteres Beispiel: Vergleiche zwischen Menschen werden angestellt, die kulturelle Gepflogenheiten, Traditionen, Begriffverständnissen von Bewohner eines anderen Erdteiles oder auch nur mit einer anderen Bevölkerungsgruppe im selben Land vergleichen. Hammer - Schraubenzieher – Axt gehören zusammen, genauso wie Nagel – Schraube – Holz, oder etwa nicht? Wie sieht es mit dieser Kombination aus: Hammer – Nagel, Schraubenzieher – Schraube, Axt – Holz? Welche Zuordnung spricht wohl für eine "höhere" beziehungweise einer "höherwertigen" Intelligenz? Können wir behaupten zu wissen, welches Bezugsystem das objektivste ist?
-## Versuch einer Definition des Begriffes 'Intelligenz' &lt;h2&gt;
-    ...
-## Hinfälligkeit der Adjektives "Künstlich" &lt;h2&gt;
-    ...
+## Versuch einer Definition des Begriffes 'Intelligenz';
+...
+## Hinfälligkeit des Adjektives "Künstlich";
+...
+## Zusammenfassung
+...
