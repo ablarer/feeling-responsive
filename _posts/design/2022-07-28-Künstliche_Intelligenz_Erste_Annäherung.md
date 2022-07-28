@@ -11,15 +11,14 @@ teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich b
 #
 header:
     image: intelligence.jpg
-    background-color: "#262930"
+    background-color: "#000000"
     caption: This is a caption for the header image with link
     caption_url: https://www.pexels.com
 image:
-    thumb:  homepage_typography-thumb.jpg
-    homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
-mediaplayer: no
+    thumb:  intelligence.jpg
+    homepage: intelligence.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://www.pexels.com
 ---
 ## Subjektivität des Begriffes 'Intelligenz'
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
