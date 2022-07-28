@@ -14,6 +14,8 @@ header:
 image:
     thumb:  intelligence-thumb.jpg
     homepage: intelligence.jpg
+show_meta:
+    true
 ---
 ## Subjektivität des Begriffes 'Intelligenz'
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
@@ -25,5 +27,3 @@ image:
 ...
 ## Zusammenfassung
 ...
-
-show_meta: true
