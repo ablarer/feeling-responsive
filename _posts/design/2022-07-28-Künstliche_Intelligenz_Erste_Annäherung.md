@@ -21,5 +21,11 @@ image:
     caption_url: "http://www.aisleone.net/"
 mediaplayer: no
 ---
-[mediaelement.js][1] Bedeutung des Begriffes 'Künstliche Intelligenz'
-  Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert. Die Intelligenz wird zum Beispiel von Menschen mit denen von Tieren so verglichen, dass man von der unbewusst oder bewusst definierten Fähigkeiten von Menschen ausgeht, welche die Tiere aufweisen oder eben nicht, Vergleiche zwischen Menschen werden angestellt, die kulturelle Gepflogenheiten von Bewohner eines Erdteiles mit denen von anderen Gepflogenheiten, Traditionen, Begriffverständnissen vergleichen. Hammer - Schraubenzieher – Axt gehören zusammen, genauso wie Nagel – Schraube – Holz, oder etwa nicht? Wie sieht es mit dieser Kombination aus: Hammer – Nagel, Schraubenzieher – Schraube, Axt – Holz? Welche Zuordnung spricht wohl für eine "höhere" beziehungweise einer "höherwertigen" Intelligenz?
+## Subjektivität des Begriffes 'Intelligenz' &lt;h2&gt;
+  Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
+  Die 'Intelligenz' wird zum Beispiel zwischen Menschen und Tieren verglichen. Dabei geht man von unbewusst oder bewusst definierten Fähigkeiten des Menschen aus, die man als 'Intelligent' bezeichnet. Die Tiere weisen diese dann auf oder eben nicht und sind dadurch meist weniger 'Intelligent' als der Mensch.
+  Ein weiteres Beispiel: Vergleiche zwischen Menschen werden angestellt, die kulturelle Gepflogenheiten, Traditionen, Begriffverständnissen von Bewohner eines anderen Erdteiles oder auch nur mit einer anderen Bevölkerungsgruppe im selben Land vergleichen. Hammer - Schraubenzieher – Axt gehören zusammen, genauso wie Nagel – Schraube – Holz, oder etwa nicht? Wie sieht es mit dieser Kombination aus: Hammer – Nagel, Schraubenzieher – Schraube, Axt – Holz? Welche Zuordnung spricht wohl für eine "höhere" beziehungweise einer "höherwertigen" Intelligenz? Können wir behaupten zu wissen, welches Bezugsystem das objektivste ist?
+## Versuch einer Definition des Begriffes 'Intelligenz' &lt;h2&gt;
+    ...
+## Hinfälligkeit der Adjektives "Künstlich" &lt;h2&gt;
+    ...
