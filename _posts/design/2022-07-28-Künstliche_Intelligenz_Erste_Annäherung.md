@@ -49,3 +49,4 @@ Aus obigem kann gefolgert werden, dass Intelligenz eine innewohnende Konsequenz 
 Ich hoffe, ich konnte meine Gedanken verständlich darstellen und zu weiteren Gedanken, ja auch, zu Widerspruch anregen. Ich bilde mir ein, mit meinen Aussagen, uns Menschen etwas von unserem "Thron" gestosen zu haben. Wir sollten uns bewusst sein, dass wir kein künstliches Leben, keine künstliche Intelligenz erschaffen können. Doch können wir – Materie, Energie, Naturgesetze – derart arrangieren, dass sie Systeme bilden, die dann als künstlich bezeichnet werden können. Künstlich in dem Sinn, als das diese Systeme bisher im Leben eines Individuums oder einer Population als neu und unbekannt wahrgenommen wird. Wir können also Leben und Intelligenz erschaffen, doch sind dies nur natürliche Manifestationen unseres Universums und nicht unserer Schöpfungskraft im Sinne von "Creatio ex nihilo" – die Schöpfung aus dem Nichts.
 
 </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
