@@ -74,3 +74,5 @@ Zu 3.
 
 ## Zusammenfassung
 Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und dieser, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf.
+
+</div><!-- /.medium-8.columns -->
