@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Discussion"
 sidebar: none
 #
@@ -39,7 +39,7 @@ show_meta: false
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
   Die 'Intelligenz' wird zum Beispiel zwischen Menschen und Tieren verglichen. Dabei geht man von unbewusst oder bewusst definierten Fähigkeiten des Menschen aus, die man als 'Intelligent' bezeichnet. Die Tiere weisen diese dann auf oder eben nicht und sind dadurch meist weniger 'Intelligent' als der Mensch.
   Ein weiteres Beispiel: Vergleiche zwischen Menschen werden angestellt, die kulturelle Gepflogenheiten, Traditionen, Begriffverständnissen von Bewohner eines anderen Erdteiles oder auch nur mit einer anderen Bevölkerungsgruppe im selben Land vergleichen. Hammer - Schraubenzieher – Axt gehören zusammen, genauso wie Nagel – Schraube – Holz, oder etwa nicht? Wie sieht es mit dieser Kombination aus: Hammer – Nagel, Schraubenzieher – Schraube, Axt – Holz? Welche Zuordnung spricht wohl für eine "höhere" beziehungsweise einer "höherwertigen" Intelligenz? Können wir behaupten zu wissen, welches Bezugsystem das objektivste ist?
-## Versuch einer Definition des Begriffes 'Intelligent'
+## Versuch einer Definition des Begriffes 'Intelligenz'
 Was bezeichnen wir also im Speziellen als intelligent? Sicher einmal die Fähigkeit eine Handlung auszuführen oder eine Aussage zu tätigen die uns als Individuum überrascht, wir uns oder ihr nicht zugetraut oder erwartet hätten. Die Handlung, das aus der Handlung resultierende Produkt oder die Aussage, die auf einen bestimmten Gedankengang basiert, wird dann als Intelligent bezeichnet. Werden die Manifestationen – Handlung, Produkt der Handlung, Aussage – als intelligent taxiert, wird die Person ebenso als intelligent bezeichnet. Daraus folgt, dass es durchaus vorkommt, dass wir aus einer subjektiven Bewertung jemanden als Intelligent bezeichnen, andere allerdings nicht. Bleibt die Manifestation aus, versagt der Versuch die Person als Intelligent zu bezeichnen.
 
 Im Allgemeinen: Die Intelligenz basiert also mehrheitlich aus der subjektiven Deutung der realen oder virtuellen Manifestation eines Prozesses der auf der Interaktion von Materie und Energie basierend auf den Naturgesetzen basiert. Bei Personen durch Prozesse und Interaktionen von chemischen Stoffen, die ihnen die Existenz als Lebewesen und die Interaktion mit der Umwelt ermöglichen. Das obige gilt anstelle von Personen auch für andere organische oder mechanische Systeme, wie zum Beispiel Elefanten, Ameisen, Computer oder Autos, ja auch für Steine, Wind und Feuer. Alles sind Systeme, die Mittels Energie aufrechterhalten werden und nicht ohne Interaktion mit der belebten und/oder unbelebten Natur existieren können.

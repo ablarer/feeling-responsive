@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Discussion"
 sidebar: none
 #
@@ -22,6 +22,19 @@ categories:
 comments: true
 show_meta: false
 ---
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
 
