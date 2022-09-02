@@ -1,10 +1,11 @@
 ---
 layout: page
+sidebar: none
 #
 # Content
 #
-title: "Künstliche Intelligenz – Eine erste Annäherung"
-teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich bedeutet. Meine ersten Gedanken und Ideen dazu waren wirr und ungeordnet. Um meiner Leserschaft eine möglichst klaren Einblick bezüglichen meinen Schlüssen, Gedanken und Ideen zu verschaffen, bemühe ich mich, diese möglichst klar und geordnet zu präsentieren."
+title: "Kognitive Orthesen: Auf dem Weg zur menschenzentrierten Künstlichen Intelligenz"
+teaser: "Im Folgenden ein paar Notizen und Gedanken zur Publikation 'Cognitive Orthoses - Toward Human-Centered AI' inspiriert (Kenneth M. Ford, Patrick J. Hayes, Clark Glymour, James Allen, AI Magazine, Winter 2015, Seiten 5-8, 2015.)."
 #
 # Styling
 #
@@ -33,7 +34,7 @@ Der Artikel setzt sich einerseits kurz mit der Auseinandersetzung und Akzeptanz 
 Der Artikel plädiert für die Akzeptanz von künstlichen Intelligenzen. Anstatt diese als Rivalen unserer selbst zu betrachten, sollen wir deren Fähigkeiten nutzen, unsere Fähigkeiten zu erweitern, ja diese sogar als Teammitglieder betrachten.
 Diesem kann ich einerseits recht geben, andererseits muss ich dieser Forderung wiedersprechen.
 
-Ja, wir sollten keine Angst vor kognitiven Orthosen haben. Wir nutzen diese ja schon lange, wenn auch in etwas anderen Daseinsformen und Erscheinungen, z.B. Meditation, Drogen, Notizblätter, Bücher, Taschenrechner, Computer. Doch die Nutzung, die Anwendung und die Akzeptanz wurden hier, über längere Perioden hinweg immer wieder revidiert und reglementiert bis ein gewisser gemeinsamer Konsens über deren Gebrauch und Umgang mit diesen entstanden ist. Ängste und Abneigungen entstanden jeweils aus meist irrationalen Überlegungen heraus, wie auch bei der künstlichen Intelligenz zu betrachten ist, Ängste über zum Beispiel über den Verlust der Willens- und Handelsfreiheit, Ängste über den Verlust Macht über sich selbst oder andere auszuführen oder selbst einer nicht kontrollierbaren Macht ausgeliefert zu sein (z.B. Heavy Metall Musik mit satanischen Botschaften). Widersprechen muss ich diesen Forderungen, falls die Menschenrechte (siehe https://www.humanrights.ch/de/ipf/grundlagen/rechtsquellen-instrumente/aemr/) des Menschen beeinträchtigt werden.
+Ja, wir sollten keine Angst vor kognitiven Orthosen haben. Wir nutzen diese ja schon lange, wenn auch in etwas anderen Daseinsformen und Erscheinungen, z.B. Meditation, Drogen, Notizblätter, Bücher, Taschenrechner, Computer. Doch die Nutzung, die Anwendung und die Akzeptanz wurden hier, über längere Perioden hinweg immer wieder revidiert und reglementiert bis ein gewisser gemeinsamer Konsens über deren Gebrauch und Umgang mit diesen entstanden ist. Ängste und Abneigungen entstanden jeweils aus meist irrationalen Überlegungen heraus, wie auch bei der künstlichen Intelligenz zu betrachten ist, Ängste über zum Beispiel über den Verlust der Willens- und Handelsfreiheit, Ängste über den Verlust Macht über sich selbst oder andere auszuführen oder selbst einer nicht kontrollierbaren Macht ausgeliefert zu sein (z.B. Heavy Metall Musik mit satanischen Botschaften). Widersprechen muss ich diesen Forderungen, falls die Menschenrechte (siehe www.humanrights.ch/de/ipf/grundlagen/rechtsquellen-instrumente/aemr/) des Menschen beeinträchtigt werden.
 
 Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder eine Funktion erhalten sollen, Rechte zugestehen wollen, muss noch ausdiskutiert werden. Ich selber tendieren dazu ihnen diese eher zu-, als abzusprechen.
 ## Fragen und Antworten

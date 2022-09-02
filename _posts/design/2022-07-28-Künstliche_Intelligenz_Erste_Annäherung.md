@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: none
 #
 # Content
 #
