@@ -47,13 +47,14 @@ Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind siche
 
 Hier ein paar kurz gefasste Antworten meinerseits:
 
-- Zu 1.
+Zu 1.
   + Ich denke, dieses Ziel kann durch offene Kommunikation und Demonstrationen von Anwendungen, zumindest teilweise, erreicht werden.
 
-- Zu 2.
+Zu 2.
   + Diese Antwort ist abhängig von individuellen und staatlichen Vorstellungen, Meinungen, Traditionen, Glaubensrichtungen und persönlicher Biografie. Ich selber bin eher ein Befürworter habe aber ganz klar meine Grenzen, die wohl aber erst bei konkreten Beispielen und bei persönlicher Konfrontation zu tage treten und Konsequenzen tragen werden.
 
-- Zu 3.
+
+Zu 3.
   + Hier ist die öffentliche informierte Meinungsbildung gefordert, die wohl am meisten von offener Kommunikation und Demonstrationen von Anwendungen profitieren kann.
 
 ## Zusammenfassung
