@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 #
 # Content
 #
@@ -9,15 +9,16 @@ teaser: "Im Folgenden ein paar Notizen und Gedanken zur Publikation "Cognitive O
 # Styling
 #
 header:
-    image: intelligence.jpg
-    background-color: "#262930"
+image_fullwidth: "header_typewriter.jpg"
+caption: Image by Florian Klauer
+caption_url: "http://florianklauer.de/"
 image:
-    thumb:  typewriter-thumb.jpg
-    homepage: intelligence.jpg
-comments:
-    true
-show_meta:
-    true
+thumb:  typewriter-thumb.jpg
+homepage: homepage_typewriter.jpg
+categories:
+- design
+  comments: true
+  show_meta: false
 ---
 ## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
