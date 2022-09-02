@@ -22,6 +22,19 @@ categories:
 comments: true
 show_meta: false
 ---
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## Subjektivität des Begriffes 'Intelligenz'
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
   Die 'Intelligenz' wird zum Beispiel zwischen Menschen und Tieren verglichen. Dabei geht man von unbewusst oder bewusst definierten Fähigkeiten des Menschen aus, die man als 'Intelligent' bezeichnet. Die Tiere weisen diese dann auf oder eben nicht und sind dadurch meist weniger 'Intelligent' als der Mensch.
