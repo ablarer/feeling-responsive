@@ -1,5 +1,6 @@
 ---
 layout: page
+subheadline: "Discussion"
 sidebar: none
 #
 # Content
@@ -10,16 +11,16 @@ teaser: "Im Folgenden ein paar Notizen und Gedanken zur Publikation 'Cognitive O
 # Styling
 #
 header:
-image_fullwidth: "header_typewriter.jpg"
-caption: Image by Florian Klauer
-caption_url: "http://florianklauer.de/"
+  image_fullwidth: "header_typewriter.jpg"
+  caption: Image by Florian Klauer
+  caption_url: "http://florianklauer.de/"
 image:
-thumb:  typewriter-thumb.jpg
-homepage: homepage_typewriter.jpg
+  thumb:  typewriter-thumb.jpg
+  homepage: homepage_typewriter.jpg
 categories:
-- design
-  comments: true
-  show_meta: false
+  - design
+comments: true
+show_meta: false
 ---
 ## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
@@ -36,7 +37,7 @@ Diesem kann ich einerseits recht geben, andererseits muss ich dieser Forderung w
 
 Ja, wir sollten keine Angst vor kognitiven Orthosen haben. Wir nutzen diese ja schon lange, wenn auch in etwas anderen Daseinsformen und Erscheinungen, z.B. Meditation, Drogen, Notizblätter, Bücher, Taschenrechner, Computer. Doch die Nutzung, die Anwendung und die Akzeptanz wurden hier, über längere Perioden hinweg immer wieder revidiert und reglementiert bis ein gewisser gemeinsamer Konsens über deren Gebrauch und Umgang mit diesen entstanden ist. Ängste und Abneigungen entstanden jeweils aus meist irrationalen Überlegungen heraus, wie auch bei der künstlichen Intelligenz zu betrachten ist, Ängste über zum Beispiel über den Verlust der Willens- und Handelsfreiheit, Ängste über den Verlust Macht über sich selbst oder andere auszuführen oder selbst einer nicht kontrollierbaren Macht ausgeliefert zu sein (z.B. Heavy Metall Musik mit satanischen Botschaften). Widersprechen muss ich diesen Forderungen, falls die Menschenrechte (siehe www.humanrights.ch/de/ipf/grundlagen/rechtsquellen-instrumente/aemr/) des Menschen beeinträchtigt werden.
 
-Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder eine Funktion erhalten sollen, Rechte zugestehen wollen, muss noch ausdiskutiert werden. Ich selber tendieren dazu ihnen diese eher zu-, als abzusprechen.
+Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder eine Funktion erhalten sollen, Rechte zugestehen wollen, muss noch ausdiskutiert werden. Ich selber tendieren dazu, ihnen diese eher zu-, als abzusprechen.
 ## Fragen und Antworten
 Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
 

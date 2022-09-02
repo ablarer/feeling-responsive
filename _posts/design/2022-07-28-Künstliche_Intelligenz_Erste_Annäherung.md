@@ -1,5 +1,6 @@
 ---
 layout: page
+subheadline: "Discussion"
 sidebar: none
 #
 # Content
@@ -10,14 +11,14 @@ teaser: "Der folgende Text beschreibt, was 'Künstliche Intelligenz' für mich b
 # Styling
 #
 header:
-image_fullwidth: "header_typewriter.jpg"
-caption: Image by Florian Klauer
-caption_url: "http://florianklauer.de/"
+  image_fullwidth: "header_typewriter.jpg"
+  caption: Image by Florian Klauer
+  caption_url: "http://florianklauer.de/"
 image:
-thumb:  typewriter-thumb.jpg
-homepage: homepage_typewriter.jpg
+  thumb:  typewriter-thumb.jpg
+  homepage: homepage_typewriter.jpg
 categories:
-- design
+  - design
 comments: true
 show_meta: false
 ---
