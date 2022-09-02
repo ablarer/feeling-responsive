@@ -36,14 +36,21 @@ Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder ei
 ## Fragen und Antworten
 Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
 
-a) Wie kann dieses Ziel erreicht werden?
+1. Wie kann dieses Ziel erreicht werden?
 
-b) Sind alle kognitiven Orthosen erwünscht bzw. erstrebenswert?
+2. Sind alle kognitiven Orthosen erwünscht bzw. erstrebenswert?
 
-c) Wie gehen wir mit kognitiven Orthosen um (Stichworte: Rechte, Pflichten, Verantwortung)?
+3. Wie gehen wir mit kognitiven Orthosen um (Stichworte: Rechte, Pflichten, Verantwortung)?
 
-Zu a) Ich denke, dieses Ziel kann durch offene Kommunikation und Demonstrationen von Anwendungen, zumindest teilweise, erreicht werden.
+HIer ein paar kurz gefasste Antworten meinerseits:
 
-Zu b) Diese Antwort ist abhängig von individuellen und staatlichen Vorstellungen, Meinungen, Traditionen, Glaubensrichtungen und persönlicher Biografie. Ich selber bin eher ein Befürworter habe aber ganz klar meine Grenzen, die wohl aber erst bei konkreten Beispielen und bei persönlicher Konfrontation zu tage treten und Konsequenzen tragen werden.
+- Zu 1.
+  + Ich denke, dieses Ziel kann durch offene Kommunikation und Demonstrationen von Anwendungen, zumindest teilweise, erreicht werden.
 
-Zu c) Hier ist die öffentliche informierte Meinungsbildung gefordert, die wohl am meisten von offener Kommunikation und Demonstrationen von Anwendungen profitieren kann.
+- Zu 2.
+  + Diese Antwort ist abhängig von individuellen und staatlichen Vorstellungen, Meinungen, Traditionen, Glaubensrichtungen und persönlicher Biografie. Ich selber bin eher ein Befürworter habe aber ganz klar meine Grenzen, die wohl aber erst bei konkreten Beispielen und bei persönlicher Konfrontation zu tage treten und Konsequenzen tragen werden.
+
+- Zu 3.
+  + Hier ist die öffentliche informierte Meinungsbildung gefordert, die wohl am meisten von offener Kommunikation und Demonstrationen von Anwendungen profitieren kann.
+## Zusammenfassung
+Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und diese, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf.
