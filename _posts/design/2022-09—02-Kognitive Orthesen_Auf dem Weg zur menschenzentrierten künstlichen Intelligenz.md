@@ -17,7 +17,7 @@ image:
 show_meta:
     true
 ---
-## Kognitive Orthesen – Einführung mit Begriffserklärung'
+## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
 
 Gemäss www.netdoktor.ch vom 02.09.22 wird eine Orthose als: "Ein äusserlich am Körper angebrachtes orthopädisches Hilfsmittel, das Gelenke, Muskeln oder Knochen entlasten, stabilisieren oder richtigstellen soll und dabei deren Form und Funktion ergänzt. Zu den Orthesen zählen Schienen, Bandagen, Stützapparate, Mieder und Korsette." beschrieben.
