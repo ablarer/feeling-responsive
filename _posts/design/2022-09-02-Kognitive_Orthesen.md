@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 title: "Kognitive Orthesen: Auf dem Weg zur menschenzentrierten Künstlichen Intelligenz"
-teaser: "Im Folgenden ein paar Notizen und Gedanken zur Publikation "Cognitive Orthoses - Toward Human-Centered AI" inspiriert (Kenneth M. Ford, Patrick J. Hayes, Clark Glymour, James Allen, AI Magazine, Winter 2015, Seiten 5-8, 2015.)."
+teaser: "Im Folgenden ein paar Notizen und Gedanken zur Publikation 'Cognitive Orthoses - Toward Human-Centered AI' inspiriert (Kenneth M. Ford, Patrick J. Hayes, Clark Glymour, James Allen, AI Magazine, Winter 2015, Seiten 5-8, 2015.)."
 #
 # Styling
 #
