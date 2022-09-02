@@ -14,8 +14,10 @@ header:
 image:
     thumb:  typewriter-thumb.jpg
     homepage: intelligence.jpg
-comments: true
-show_meta: true
+comments:
+    true
+show_meta:
+    true
 ---
 ## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
@@ -53,4 +55,4 @@ HIer ein paar kurz gefasste Antworten meinerseits:
 - Zu 3.
   + Hier ist die öffentliche informierte Meinungsbildung gefordert, die wohl am meisten von offener Kommunikation und Demonstrationen von Anwendungen profitieren kann.
 ## Zusammenfassung
-Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und diese, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf.
+Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und dieser, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf.
