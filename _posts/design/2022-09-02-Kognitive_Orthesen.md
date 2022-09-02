@@ -45,7 +45,7 @@ Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind siche
 
 3. Wie gehen wir mit kognitiven Orthosen um (Stichworte: Rechte, Pflichten, Verantwortung)?
 
-HIer ein paar kurz gefasste Antworten meinerseits:
+Hier ein paar kurz gefasste Antworten meinerseits:
 
 - Zu 1.
   + Ich denke, dieses Ziel kann durch offene Kommunikation und Demonstrationen von Anwendungen, zumindest teilweise, erreicht werden.
@@ -55,5 +55,6 @@ HIer ein paar kurz gefasste Antworten meinerseits:
 
 - Zu 3.
   + Hier ist die öffentliche informierte Meinungsbildung gefordert, die wohl am meisten von offener Kommunikation und Demonstrationen von Anwendungen profitieren kann.
+
 ## Zusammenfassung
 Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und dieser, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf.
