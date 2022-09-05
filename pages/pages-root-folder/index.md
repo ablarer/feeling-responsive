@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://ablarer.github.io/feeling-responsive/blog/'
