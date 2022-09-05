@@ -61,16 +61,7 @@ Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt? Ist e
 
 ## Congress visitors interacting with Ameca
 
-<video style="width: 560px; height: 315px; left: 0px; top: 0px;" tabindex="-1" class="video-stream html5-main-video" webkit-playsinline="" playsinline="" controlslist="nodownload" src="blob:https:///www.youtube.com/embed/hgwQmQ_k8K0"></video>
-
-<a>href="#" data-reveal-id="videoModal"><img src="http://ablarer.github.io/feeling-responsive/images/start-video-feeling=responsive=302x182.1eg"alt="" width="302" height="182"></a>
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/hgwQmQ_k8K0">
-</iframe>
-
-## B-Ju - »Philly Run«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/hgwQmQ_k8K0"></iframe>
 
 ## Fragen und Antworten
 Zurück zum Eingangs erwähnten Artikel. Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dazu müssen sicher noch ein paar Fragen beantwortet werden:
