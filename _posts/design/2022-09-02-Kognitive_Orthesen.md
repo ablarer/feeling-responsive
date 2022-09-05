@@ -68,7 +68,7 @@ Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt? Ist e
 <audio src="http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
 
 ## Fragen und Antworten
-Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
+Zurück zum Eingangs erwähnten Artikel. Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dazu müssen sicher noch ein paar Fragen beantwortet werden:
 
 1. Wie kann dieses Ziel erreicht werden?
 
