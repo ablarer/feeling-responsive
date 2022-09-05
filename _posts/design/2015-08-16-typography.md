@@ -17,6 +17,8 @@ image:
 categories:
     - design
     - typography
+comments: true
+show_meta: false
 ---
 <!--more-->
 
