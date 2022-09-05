@@ -58,6 +58,12 @@ Um sich damit auseinanderzusetzen, wie mit Entitäten (Gegenstände, Organismen)
 
 Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt? Ist es in Ordnung in Gegenwart von Ameca über anstatt mit ihm zu sprechen, Witze zu machen, anzüglich zu sein? Eure Meinung dazu interessiert mich.
 
+<br>
+<br>
+<video width="620" controls><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/ogg"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/avi"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/mp4"></video>
+<br>
+<br>
+
 ## Fragen und Antworten
 Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
 
