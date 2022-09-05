@@ -59,11 +59,9 @@ Um sich damit auseinanderzusetzen, wie mit Entitäten (Gegenstände, Organismen)
 Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt? Ist es in Ordnung in Gegenwart von Ameca über anstatt mit ihm zu sprechen, Witze zu machen, anzüglich zu sein? Eure Meinung dazu interessiert mich.
 
 
-## Video – Congress visitors interacting with Ameca
+## Congress visitors interacting with Ameca
 
-<video width="620" controls><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/ogg"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/avi"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/mp4"></video>
-<br>
-<br>
+<video style="width: 560px; height: 315px; left: 0px; top: 0px;" tabindex="-1" class="video-stream html5-main-video" webkit-playsinline="" playsinline="" controlslist="nodownload" src="blob:https:///www.youtube.com/embed/hgwQmQ_k8K0"></video>
 
 ## B-Ju - »Philly Run«
 
