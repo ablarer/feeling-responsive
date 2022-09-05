@@ -25,17 +25,11 @@ comments: true
 show_meta: false
 ---
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
+
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Kognitive Orthesen – Einführung mit Begriffserklärung
 Der Artikel behandelt kognitive Orthesen und deren Wahrnehmung und Akzeptanz in der Gesellschaft.
@@ -86,6 +80,3 @@ Zu 3.
 
 ## Zusammenfassung
 Alles in allem empfinde ich den Artikel interessant. Er hat mir vor allem eines klargemacht, dass man über künstliche Intelligenz reden sollte und dieser, im Interesse aller daran Beteiligter und Betroffenen, keine Elfenbeinturm-Disziplin sein darf. Was den nun jetzt künstliche Intelligenz ist, ob es die überhaupt gibt (siehe meinen letzten Blogeintrag) und wie diese in Erscheinung treten kann bleibt noch zu erörtern.
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
