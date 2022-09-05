@@ -23,17 +23,11 @@ comments: true
 show_meta: false
 ---
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
-</div>
-</div><!-- /.medium-4.columns -->
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Subjektivität des Begriffes 'Intelligenz'
   Ich behaupte, es gibt keine "Künstliche Intelligenz". Jede Form von Intelligenz ist natürlichen Ursprungs. Intelligenz basiert auf den Grundgesetzen der bekannten und unbekannten Naturgesetze. Für den Begriff der Intelligenz gibt es ebenso keine objektiven Massstäbe. Das Vorhandensein beziehungsweise das Ausmass von Intelligenz wird immer aufgrund eines Bezugssystems definiert.
@@ -47,6 +41,3 @@ Im Allgemeinen: Die Intelligenz basiert also mehrheitlich aus der subjektiven De
 Aus obigem kann gefolgert werden, dass Intelligenz eine innewohnende Konsequenz von Systemen ist, die den Naturgesetzen unterworfen sind. Wenn wir also den Begriff "künstlich" bemühen möchten, dürfen wir das durchaus tun. Doch würde ich vorziehen, wenn wir den Begriff nur für Systeme Verwenden, die durch organische System erschaffen wurden, wie zum Beispiel der Ameisenhaufen durch die Ameisen oder die Petrollampe durch den Menschen.
 ## Zusammenfassung
 Ich hoffe, ich konnte meine Gedanken verständlich darstellen und zu weiteren Gedanken, ja auch, zu Widerspruch anregen. Ich bilde mir ein, mit meinen Aussagen, uns Menschen etwas von unserem "Thron" gestosen zu haben. Wir sollten uns bewusst sein, dass wir kein künstliches Leben, keine künstliche Intelligenz erschaffen können. Doch können wir – Materie, Energie, Naturgesetze – derart arrangieren, dass sie Systeme bilden, die dann als künstlich bezeichnet werden können. Künstlich in dem Sinn, als das diese Systeme bisher im Leben eines Individuums oder einer Population als neu und unbekannt wahrgenommen wird. Wir können also Leben und Intelligenz erschaffen, doch sind dies nur natürliche Manifestationen unseres Universums und nicht unserer Schöpfungskraft im Sinne von "Creatio ex nihilo" – die Schöpfung aus dem Nichts.
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
