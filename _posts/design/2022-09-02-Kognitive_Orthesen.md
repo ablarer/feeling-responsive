@@ -17,9 +17,9 @@ header:
 image:
   thumb:  typewriter-thumb.jpg
   homepage: homepage_typewriter.jpg
-mediaplayer: true
 categories:
   - design
+mediaplayer: true
 comments: true
 show_meta: false
 ---
@@ -53,12 +53,12 @@ Ja, wir sollten keine Angst vor kognitiven Orthosen haben. Wir nutzen diese ja s
 
 Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder eine Funktion erhalten sollen, Rechte zugestehen wollen, muss noch ausdiskutiert werden. Ich selber tendieren dazu, ihnen diese eher zu-, als abzusprechen. Dies auch vor allem auch darum, um die persönliche Würde des Menschen aufrechtzuerhalten, indem man ihm, dem Menschen, einen Spiegel vorsetzt und ihn darüber reflektieren lässt, wie er mit nicht menschlichen Entitäten, seien diese jetzt je nach Definition intelligent oder nicht, seien es menschen- und tierähnliche Gegenstände oder nicht menschliche Organismen umgeht.
 
-## Eine Beobachtungsmöglichkeit seiner selbst und anderer
-Um sich damit auseinanderzusetzen, wie mit Entitäten umgegangen wird oder umgegangen werden kann und was man von den interagierenden Menschen und über sich während der Reflektion lernen kann, folgt ein hier ein Video. Ich möchte dabei ganz klar darstellen, dass es sich bei dem Ausstellungsgegenstand (ist die Wortwahl hier gerechtfertigt?) genauso gut um einen Teddybären oder um einen Hamster gehandelt haben könnte. Nur wären wohl hier die Reaktionen, wohl aus Gewohnheit gegenüber dem "altbekannten" Teddybären oder dem wohlbekannten Hamster nicht so offen und kreativ experimentell ausgefallen. Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt?
+## Reaktionen auf eine mögliche künstliche Intelligenz
+Um sich damit auseinanderzusetzen, wie mit Entitäten umgegangen wird oder umgegangen werden kann und was man von den interagierenden Menschen und über sich während der Reflektion lernen kann, folgt ein hier ein Video. Ich möchte dabei ganz klar darstellen, dass es sich bei dem Ausstellungsgegenstand (ist die Wortwahl hier gerechtfertigt?) genauso gut um einen Teddybären oder um einen Hamster gehandelt haben könnte. Nur wären wohl hier die Reaktionen, wohl aus Gewohnheit gegenüber dem "altbekannten" Teddybären oder dem wohlbekannten Hamster nicht so offen und kreativ experimentell ausgefallen.
 
-<video width="620" controls><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/ogg">
-<source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/avi">
-<source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/mp4"></video>
+Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt? Ist es in Ordnung in Gegenwart von Ameca über anstatt mit ihm zu sprechen, Witze zu machen, anzüglich zu sein? Euer Meinung dazu interessiert mich.
+
+<video width="620" controls><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/ogg"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/avi"><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/mp4"></video>
 
 ## Fragen und Antworten
 Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
