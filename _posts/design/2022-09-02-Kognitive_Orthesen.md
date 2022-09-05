@@ -56,7 +56,9 @@ Inwiefern wir künstlichen Intelligenzen, falls diese dann als Teammitglieder ei
 ## Eine Beobachtungsmöglichkeit seiner selbst und anderer
 Um sich damit auseinanderzusetzen, wie mit Entitäten umgegangen wird oder umgegangen werden kann und was man von den interagierenden Menschen und über sich während der Reflektion lernen kann, folgt ein hier ein Video. Ich möchte dabei ganz klar darstellen, dass es sich bei dem Ausstellungsgegenstand (ist die Wortwahl hier gerechtfertigt?) genauso gut um einen Teddybären oder um einen Hamster gehandelt haben könnte. Nur wären wohl hier die Reaktionen, wohl aus Gewohnheit gegenüber dem "altbekannten" Teddybären oder dem wohlbekannten Hamster nicht so offen und kreativ experimentell ausgefallen. Sind alle Handlungen und Fragen an Ameca, den humanoiden Roboter, erlaubt?
 
-<video width="620" controls><source src="videos/Ameca/interacts.mp4" type="video/ogg"><source src="videos/Ameca/interacts.mp4" type="video/avi"><source src="videos/Ameca/interacts.mp4" type="video/mp4"></video>
+<video width="620" controls><source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/ogg">
+<source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/avi">
+<source src="https://www.youtube.com/watch?v=hgwQmQ_k8K0" type="video/mp4"></video>
 
 ## Fragen und Antworten
 Der Artikel plädiert für Anerkennung von kognitiven Orthosen. Dabei sind sicher noch ein paar Fragen zu beantworten:
