@@ -7,7 +7,7 @@ sidebar: none
 #
 subheadline: "Discussion"
 title: "Die Sieben Totsünden der KI-Prognosen"
-teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Dirk Helbing, 'What’s Wrong with AI? A Discussion Paper', SI Magazine, 2020. In diesem Artikel geht es um mögliche Prognosen, im Bezug zur künstliche Intelligenz (KI), welche von 'KI wird uns alle umbringen.' bis 'KI wird uns alle retten.' reichen."
+teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Dirk Helbing, 'What’s Wrong with AI? A Discussion Paper', SI Magazine, 2020. In diesem Artikel geht es um mögliche Prognosen, im Bezug zur künstlichen Intelligenz (KI), welche von 'KI wird uns alle umbringen.' bis 'KI wird uns alle retten.' reichen."
 #
 # Styling
 #
