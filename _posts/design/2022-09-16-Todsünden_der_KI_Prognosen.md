@@ -6,8 +6,9 @@ sidebar: none
 # Content
 #
 subheadline: "Discussion"
-title: "Die Sieben Totsünden der KI-Prognosen"
-teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Dirk Helbing, 'What’s Wrong with AI? A Discussion Paper', SI Magazine, 2020. In diesem Artikel geht es um mögliche Prognosen, im Bezug zur künstlichen Intelligenz (KI), welche von 'KI wird uns alle umbringen.' bis 'KI wird uns alle retten.' reichen."
+title: "Die Sieben Todsünden der KI-Prognosen"
+teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Rodney Brooks, "The Seven Deadly Sins of AI Predictions", Technology Review,
+October 6, 2017, available online (2021-09-09)."
 #
 # Styling
 #
@@ -30,9 +31,6 @@ show_meta: false
 {: #toc }
 *  TOC
 {:toc}
-
-## ...
-...
 
 ## ...
 ...
