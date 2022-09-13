@@ -7,7 +7,8 @@ sidebar: none
 #
 subheadline: "Discussion"
 title: "Die Sieben Todsünden der KI-Prognosen"
-teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Rodney Brooks, 'The Seven Deadly Sins of AI Predictions', Technology Review, October 6, 2017, available online (2021-09-09)."
+teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Rodney Brooks."
+# , 'The Seven Deadly Sins of AI Predictions', Technology Review, October 6, 2017, available online (2021-09-09)."
 #
 # Styling
 #
@@ -29,13 +30,13 @@ categories:
 **Table of Contents**
 {: #toc }
 *  TOC
-{:toc}
+   {:toc}
 
-## ...
-...
+## 1
+1
 
-## ...
-...
+## 2
+2
 
 ## ...
 ...
