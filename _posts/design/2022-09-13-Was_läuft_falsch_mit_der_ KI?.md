@@ -32,12 +32,12 @@ show_meta: false
 {:toc}
 
 # Eine Übersicht über den Artikel
-## 'AI on the rise'
+## 'AI on the Rise'
 ### Einführung
-In diesem Kapitel wird kurz die Möglichkeit von AI (künstliche Intelligenz / KI) umrissen und auf eine überrissene Prognose und tatsächlich beachtungswerte Entwicklungen in Inselaufgaben hingewiesen, wobei ich den Begriff Inselaufgabe wie den Begriff Inselbegabung <https://de.wikipedia.org/wiki/Inselbegabung> in seiner extremsten Form verstanden wissen möchte.
+In diesem Kapitel wird kurz die Möglichkeit von AI (künstliche Intelligenz / KI) umrissen und auf eine überrissene Prognose und tatsächlich beachtenswerte Entwicklungen in Inselaufgaben hingewiesen, wobei ich den Begriff Inselaufgabe wie den Begriff Inselbegabung<https://de.wikipedia.org/wiki/Inselbegabung>in seiner extremsten Form verstanden wissen möchte.
 
 ### 'AI as God'
-Hier wird eine kurze Übersicht einer Seite von Google präsentiert, die Ambitionen betreffend KI-System umreissen, welche allwissend, omnipresent und omnipotent werden sollen.
+Hier wird eine kurze Übersicht einer Seite von Google präsentiert, die Ambitionen betreffend KI-System umreissen, welche allwissend, omnipresent und omnipotent umfasst.
 
 ### 'Singularität'
 Hier werden einige Vertreter genannt, welche Gedanken zu superintelligenten KIs
@@ -46,7 +46,7 @@ Hier werden einige Vertreter genannt, welche Gedanken zu superintelligenten KIs
 ### 'Transhumanismus'
 Hier wird der Begriff Transhumanismus umrissen: Verschmelzung des Menschen mit nicht biologischer Technik (Stichwort: Cyborgs) bis zum Upload des menschlichen Geistes in ein Computersystem. Aber auch das Aufschieben des Todes durch Biotechnologie und die daraus resultierenden Konsequenzen werden kurz erwähnt (Überpopulation, soziale Gerechtigkeit betreffend der Anwendung, Eugenik). Es wird zusätzlich darauf hingewiesen, dass die Prognosen meist auf einer Extrapolation der bereits stattgefunden Entwicklung beruhen, diese aber nicht unerwartetes beinhaltet (Stichworte: "Vernetztes Denken und vernetztes Wahrnehmen", Internet).
 
-### 'Is AI really intelligent'
+### 'Is AI Really Intelligent'
 Hier fallen Stichworte mit einigen Beispielen wie:
 - Roboter versus Menschen
 - Informationsverarbeitung versus Denken und Fühlen (erröten, Liebe, Sex, Schmerz)
@@ -60,7 +60,7 @@ Danach folgt eine kurze Stellungsnahme des Autors insofern, als humanoide Robote
 ### 'What is Consciousness?'
 Hier wird die letzte Aussage des obigen Kapitels weiter erläutert und ein möglicher Vorgang skizziert, wie das Bewusstsein des Menschen sich durch veränderte Wahrnehmung entwickelt.
 
-## 'Can we trust it'
+## 'Can We Trust It'
 ### 'Big Data Analytics'
 ...
 ### 'Correlation vs. Causality'
