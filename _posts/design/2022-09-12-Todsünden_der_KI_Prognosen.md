@@ -6,7 +6,7 @@ sidebar: none
 # Content
 #
 subheadline: "Discussion"
-title: "Was läuft falsch mit der KI?"
+title: "Die Sieben Todsünden der KI-Prognosen"
 teaser: "Im Folgenden ein paar Notizen, Gedanken und eine persönliche Stellungsnahme zum Inhalt der Publikation von Dirk Helbing, 'What’s Wrong with AI? A Discussion Paper', SI Magazine, 2020. In diesem Artikel geht es um mögliche Prognosen, in Bezug zur künstlichen Intelligenz (KI), welche von 'KI wird uns alle umbringen.' bis 'KI wird uns alle retten.' reichen."
 #
 # Styling
