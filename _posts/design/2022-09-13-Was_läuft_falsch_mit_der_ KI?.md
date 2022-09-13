@@ -62,28 +62,38 @@ Hier wird die letzte Aussage des obigen Kapitels weiter erläutert und ein mögl
 
 ## 'Can We Trust It'
 ### 'Big Data Analytics'
-...
+Hier wird aufgezeigt, dass mehr Daten nicht mit qualitativ besseren Daten gleichzusetzen ist. Mehr Daten können nicht automatisch verborgene Wahrheiten besser aufdecken. Im Gegenteil können mehr Daten die Analyse erschweren. Teils werden aufgrund von Ressourcenbeschränkungen relevante Daten nicht bzw. nicht-relevante Daten berücksichtigt oder es entstehen z.B. falsche positive Signale aufgrund von Overfitting. Denn nicht nur die Auswertung, sondern auch die Auswahl der Daten muss wohlüberlegt sein.
+
 ### 'Correlation vs. Causality'
-...
+Je mehr Daten vorhanden sind, umso mehr Korrelationen werden erfasst. DOch nicht jede Variable die mit einer anderen korreliert muss einen kausalen Zusammenhang mit dieser haben. Handlungen basierend auf Korrelationen können restriktiv wirken und unsere Freiheit unnötig einschränken (Stichwort: Verbrechensvoraussage).
 ### 'Trustable AI'
-...
+KIs werden gelegentlich als das Mittel der Wahl angesehen, um Daten unparteiisch auszuwerten. Doch wurde festgestellt, dass solche System gelegentlich in ihren Lösungsvorschlägen Vorurteile bzw. die Unausgewogenheit von Daten wiederspiegeln und so zu ungerechtigkeiten führen. Die Lösungsvorschläge können häufig auch nicht nachvollzogen werden. Das führt dazu das diese nicht kritisch von den Anwendern und Betroffenen beurteilt werden können.
 ### 'Profiling, Targeting, and Digital Twins'
-...
+Dieser Abschnitt handelt um die Sammlung von Daten von Individuen zwecks Voraussage, Simulation und Manipulation ihres Verhaltens oder sogar ganzer Länder (Stichwort: Digital Double)
 ### 'Data Protection?'
-...
+Auch wenn es Datenschutzrichtlinien gibt, können und werden dauernd Daten über uns gesammelt. Oft geben wir diese auch freiwillig preis, um Dienstleistungen uneingeschränkt nutzen zu können.
 ### 'Scoring, Citizen Scores, Superscores'
-...
+Aufgrund von erfassten Daten wird die ökonomische und soziale Wertigkeit von Menschen bestimmt. Entsprechend dieser Wertigkeit werden diese dann bevorzugt, benachteiligt und damit auch erzogen und gelenkt (z.B. Beurteilungen im Privaten, auf Medienkanälen, bei der Anstellung, im Gesundheitswesen; Stichworte: Daten Diktatur, technologischer Totalitarismus, Neo-Feudalismus).
 ### 'Automation vs. Freedom'
-...
+Automatisation bei der Entscheidungsfindung eliminiert die menschliche Entscheidungsfreiheit. Dies erschwert das Zustandekommen von Zufriedenheit, welche durch autonome Entscheidungen und gute Beziehungen entstehen.
 ### 'Learning to Die?'
-...
+Hier wird die Problematik erläutert die entstehen kann, wenn Entscheidungen über Leben und Tod an KIs abgeben wird (Stichworte: selbstfahrende Fahrzeuge, Todesurteile, ökonomisch vertretbare medizinische Behandlungen).
 ### 'A revolution from above?'
-...
+Dieses Kapitel behandelt die KI unterstütze Euthanasie im Zusammenhang mit dem Bevölkerungswachstum und der Klimaveränderung und die selektive Einschränkung der Menschenrechte durch Staaten.
 ## 'Design for Values'
-### 'Human Rights', 'Happiness vs. Capitalism', 'Human Dignity', 'Informational Self- Determination', 'Design for Values', 'Democracy by Design', 'Fairness', 'Network Effects for Prosperity, Peace and Sustainability', 
+### 'Human Rights'
+Hier wird kurz der Sinn und Zweck der Menschenrechte erläutert und auf die nicht nachhaltige Wirtschaft hingewiesen.
+### 'Happiness vs. Capitalism'
+Die Rolle des digitalen Feudalismus, der dem Kapitalismus zu dient, wie auch die Preisausschilderung von allem (z.B. Wert eines Organs) und jeden (z.B. ökonomischer Wert einer Person) wird thematisiert. Im Zusammenhang damit wird Kritik gegenüber der utilitären Ethik geäussert, die alle Menschen über den gleichen Kamm schert und dadurch den real existierende Pluralismus degradiert.
+### 'Human Dignity'
+### 'Informational Self- Determination'### 'Design for Values'
+### 'Democracy by Design'
+### 'Fairness'
+### 'Network Effects for Prosperity, Peace and Sustainability', 
 
-
-
+## Zusammenfassung
+Der ganze Artikel ist in drei Hauptkapitel unterteilt: 'AI on the Rise', 'Can We Trust It' und 'Design for Values'.
+Jeder dieser Hauptkapitel beinhaltet einige Unterkapitel die einige Aspekte in Bezug zu den Hauptartikeln aufgreifen mit Beispielen erörtert. 'AI on the Rise' handelt von einigen Eigenschaften, Merkmalen, Gemeinsamkeiten und Unterschieden von KIs und Robotern zwischen Menschen. In 'Can We Trust It' 
 
 ## Fragen und Antworten
 Zurück zum Eingangs erwähnten Artikel. Der Artikel ... Dazu müssen sicher noch ein paar Fragen beantwortet werden:
@@ -104,6 +114,3 @@ Zu 2.
 
 Zu 3.
   + ...
-
-## Zusammenfassung
-...
