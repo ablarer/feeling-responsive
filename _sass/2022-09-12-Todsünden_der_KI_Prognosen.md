@@ -32,9 +32,9 @@ categories:
    {:toc}
 
 # Eine Übersicht über den Artikel
-## 'AI on the rise'
-### Einführung
-In diesem Kapitel wird kurz die Möglichkeit von AI (künstliche Intelligenz / KI) umrissen und auf eine überrissene Prognose und tatsächlich beachtungswerte Entwicklungen in Inselaufgaben hingewiesen, wobei ich den Begriff Inselaufgabe wie den Begriff Inselbegabung <https://de.wikipedia.org/wiki/Inselbegabung> in seiner extremsten Form verstanden wissen möchte.
+## '000'
+### AAA
+AAA
 
 ## BBB
 BBB
